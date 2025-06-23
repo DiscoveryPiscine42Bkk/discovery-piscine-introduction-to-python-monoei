@@ -1,5 +1,5 @@
-n = int(input("Enter a number: "))
-if n == 0:
-    print(f"{n} is equal to zero")
+number = int(input())
+if number == 0:
+    print("This number is equal to zero.")
 else:
-    print(f"{n} is different from zero")
+    print("This number is different from zero,")
